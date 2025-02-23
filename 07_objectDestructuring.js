@@ -3,8 +3,8 @@ const obj ={
     age: 21
 }
 
-let name = obj.name;
-let age = obj.age;
+// let name = obj.name;
+// let age = obj.age;
 
 console.log(name,age)
 
