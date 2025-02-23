@@ -1,3 +1,4 @@
+// Spread Operator with array and Object
 const numbers = [1,2,3,4]
 const copyNumbers = [...numbers];
 console.log(copyNumbers)
